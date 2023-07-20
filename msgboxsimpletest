@@ -1,2 +1,1 @@
-using System.Windows.Forms;
-MessageBox.Show("its a simple test please do not ask about that");
+System.Windows.Forms.MessageBox.Show("its a simple test please do not ask about that");
