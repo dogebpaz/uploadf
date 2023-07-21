@@ -1,4 +1,10 @@
-static public void MsgBox()
+using System;
+
+public class MyClass
 {
-MessageBox.Show("its a simple test please do not ask about that");
+    public void Execute()
+    {
+        // Votre code ici...
+        Console.WriteLine("Hello from the code on the website!");
+    }
 }
